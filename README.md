@@ -1,2 +1,2 @@
 # Hostel_doors
-A web-app on MEAN stack 
+A web-app build over MEAN stack  to ease up finding people in Hostel.
